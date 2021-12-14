@@ -2,7 +2,7 @@
 
 `structmap` is a Go library for converting struct and map to string.
 
-Go offers a lot of ways of converting struct or map to string. This library is just another instant way of converting struct or map to string. It doesn't use a ready-to-use method from another 3rd party library, it uses raw methods instead.
+Go offers a lot of ways of converting struct or map to string. This library is another instant way of converting struct or map to string. It doesn't use a ready-to-use method from another 3rd party library, it uses raw methods instead.
 
 ## Installation
 
